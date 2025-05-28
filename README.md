@@ -1,6 +1,6 @@
 # Bezier Curve python drawer
 
-This is a program for a calc project by ALN and Harrison
+This is a program for a calc project by ALN and Harrison for our Calculus project.
 
 It allows you to draw and visualize bezier curves via pygame
 
